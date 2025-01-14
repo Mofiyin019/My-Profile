@@ -31,9 +31,9 @@ Here are some of the tools and technologies I’m familiar with:
 
 ## 📬 Let's Connect!
 
-- 📫 Email: [odusolamofiyin@example.com](mailto:odusolamofiyin@example.com) *(Replace with your actual email)*  
-- 💼 LinkedIn: [Mofiyin Odusola](https://linkedin.com/in/mofiyin-odusola) *(Replace with your actual LinkedIn profile)*  
-- 🌐 Portfolio: [Coming Soon]  
+- 📫 Email: [fiyinodusola@gmail.com](mailto:fiyinodusola@gmail.com) 
+- 💼 LinkedIn: [Mofiyinfoluwa Odusola](https://www.linkedin.com/in/fiyin-odusola/)  
+- 🌐 Portfolio: [https://mofiyin-odusola.vzy.io/]
 
 ### 🌟 Fun Fact
 
