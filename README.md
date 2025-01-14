@@ -1,5 +1,3 @@
-Here's your customized **`README.md`** profile:
-
 # Hi there! 👋 I'm Mofiyin Odusola 🌟
 
 Welcome to my GitHub profile! 🚀  
